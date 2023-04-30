@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas0916&show_icons=true&locale=en" alt="manas0916" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manas0916&" alt="manas0916" /></p>
-<img align=“center” src=“https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg” />
+<p><img align=“center” src=“https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg” /></p>
