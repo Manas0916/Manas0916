@@ -1,4 +1,4 @@
-<img width="500" src="https://www.nicepng.com/png/detail/279-2795833_php-web-development-web-development-banner-png.png"/>
+<img width="1000" src="https://www.nicepng.com/png/detail/279-2795833_php-web-development-web-development-banner-png.png"/>
 
 <h1 align="center">Hi 👋, I'm Manas Bajpai</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
