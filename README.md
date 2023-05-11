@@ -15,8 +15,8 @@
 
 - 📄 Know about my experiences [Link 🔗](https://drive.google.com/file/d/1Ms1Vt9ysMu04w2YPaHGviDwA7Tfv1FGk/view?usp=drivesdk)
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
+<h3 align="center">🔗 Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/m_bajpai16" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a><br>
   
   
