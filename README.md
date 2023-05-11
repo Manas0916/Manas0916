@@ -5,6 +5,8 @@
 
 <h4 align="center">A passionate Full Stack Web Developer from India</h4>
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas0916&label=Profile%20views&color=0e75b6&style=flat" alt="manas0916" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
@@ -15,11 +17,14 @@
 
 - 📄 Know about my experiences [Link 🔗](https://drive.google.com/file/d/1Ms1Vt9ysMu04w2YPaHGviDwA7Tfv1FGk/view?usp=drivesdk)
 
+
+<br>
+
 <h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/m_bajpai16" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a>
   <a href="https://linkedin.com/in/manasbajpai" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10"></a><br>
-  <div align="center"
+  <div align="center">
        
   <a href="https://www.codechef.com/users/manas_16" target="blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
   <a href="https://www.hackerrank.com/manas_16" target="blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
