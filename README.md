@@ -25,12 +25,12 @@
   <a href="https://twitter.com/m_bajpai16" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a>
   <a href="https://linkedin.com/in/manasbajpai" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10"></a><br>
   <div align="center">
-       
+    
+  <a href="https://www.leetcode.com/manas_16" target="blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+  <a href="https://auth.geeksforgeeks.org/user/manas_16/practice" target="blank">![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)</a>
   <a href="https://www.codechef.com/users/manas_16" target="blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
   <a href="https://www.hackerrank.com/manas_16" target="blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
   <a href="https://codeforces.com/profile/manas_16" target="blank">![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)</a>
-  <a href="https://www.leetcode.com/manas_16" target="blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-  <a href="https://auth.geeksforgeeks.org/user/manas_16/practice" target="blank">![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)</a>
   
   </div>
 </p>
